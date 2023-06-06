@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PluginManifest Type="MacroPlugin" >
+	<Name>LastDragonMedia.TabToFocus</Name>
+	<Title>Tab To Focus</Title>
+	<Version>0.1</Version>
+	<MinimumArticyVersion>3.0</MinimumArticyVersion>
+	<Developer>Last Dragon Media</Developer>
+	<Description>Brings up a window at the mouse cursor to search for a node and navigate to it.</Description>
+	<!-- 
+	  optional manifest relative location of an 48x48 pixel image.
+	  It is used in the plugin info dialog and is scaled down to
+	  16x16 pixel if a GetIcon("$self") is not overridden or returns null. 
+	-->
+	<IconFile>Resources\Icon.png</IconFile>
+	<Tags>Widget, Search, Nodes</Tags>
+	<Properties>
+		<!-- Is this plugin multi-user safe and properly checks claiming -->
+		<Property Name="MultiUser" Value="true" />
+		
+		<!-- Can this plugin be used in single user projects -->
+		<Property Name="SingleUser" Value="true" />
+	</Properties>
+</PluginManifest>

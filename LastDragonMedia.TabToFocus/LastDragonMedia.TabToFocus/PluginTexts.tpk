@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TextPackage BaseNamespace="LastDragonMedia.Hotkey: Tab To Focus" GenerateIds="true" xmlns="http://nevigo.com/TextPackage.xsd" xml:space="preserve" >
+
+  <Category Name="System" >
+    <TextDefinition Key="Plugin.DisplayName">
+      <Context></Context>
+      <Text Lang="en">Hotkey: Tab To Focus</Text>
+      <Text Lang="de">Hotkey: Tab To Focus</Text>
+    </TextDefinition>
+
+    <TextDefinition Key="Plugin.ContextName">
+      <Context></Context>
+      <Text Lang="en">Hotkey: Tab To Focus</Text>
+      <Text Lang="de">Hotkey: Tab To Focus</Text>
+    </TextDefinition>
+    
+  </Category>
+</TextPackage>
