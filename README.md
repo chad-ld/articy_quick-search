@@ -4,6 +4,9 @@ This plugin was designed to help you navigate around the Articy flow quicker and
 ### Quick Search Demo
 
 
+https://github.com/chad-ld/articy_quick-search/assets/124286589/b475e72c-b029-4f12-a8bf-535b7d39ba33
+
+
 ### Requirements:
 
 - Articy Draft 3.0 or later.
