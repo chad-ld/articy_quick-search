@@ -42,3 +42,5 @@ The -userprofile- section of the path should be replaced with the user profile y
 ![Untitled (2)](https://github.com/chad-ld/articy_quick-search/assets/124286589/b5ee4fe6-f792-4f25-b026-c764b8cec92d)
 
 12. Just start typing to search for a piece of text inside your flow, it should automatically filter results as you type. You can stay hands off the mouse by using the tab key to switch to the list and use the arrow keys to browse. Once you’ve found the node you are looking for, stay hands off by hitting tab one more time and pressing enter. You will then be taken to the node you selected. (Video demo at the top of this page)
+
+Shared under the GNU GENERAL PUBLIC LICENSE terms.
