@@ -20,7 +20,9 @@ https://github.com/chad-ld/articy_quick-search/assets/124286589/2740d8ab-5003-43
 ### Installation Instructions
 
 1. Make sure Articy is closed and no longer running. 
-2. Download the plugin itself from the builds folder:
+2. Download the plugin itself from the builds folder: 
+
+https://github.com/chad-ld/articy_quick-search/tree/main/builds
     
 3. Navigate to C:\Users\*userprofile*\AppData\Roaming\Articy Software\articy\3.x\Plugins\Local
 The -userprofile- section of the path should be replaced with the user profile you are currently logged in as on Windows.
