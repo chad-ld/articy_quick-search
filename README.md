@@ -3,9 +3,7 @@ This plugin was designed to help you navigate around the Articy flow quicker and
 
 ### Quick Search Demo
 
-
-https://github.com/chad-ld/articy_quick-search/assets/124286589/b475e72c-b029-4f12-a8bf-535b7d39ba33
-
+https://github.com/chad-ld/articy_quick-search/assets/124286589/2740d8ab-5003-4357-8679-5034a8eec179
 
 ### Requirements:
 
