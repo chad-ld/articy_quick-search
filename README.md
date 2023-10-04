@@ -5,6 +5,8 @@ This plugin was designed to help you navigate around the Articy flow quicker and
 
 https://github.com/chad-ld/articy_quick-search/assets/124286589/2740d8ab-5003-4357-8679-5034a8eec179
 
+(Video may not load correctly on firefox because of the way GitHub processes it, try chrome or edge)
+
 ### Requirements:
 
 - Articy Draft 3.0 or later.
