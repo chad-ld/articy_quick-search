@@ -17,6 +17,10 @@ https://github.com/chad-ld/articy_quick-search/assets/124286589/2740d8ab-5003-43
 - list recent searches
 - create nodes from the pop up
 
+### Current Limitations/Bugs
+- On some projects, does not want to auto-expand the search result hierhcy
+- Seems to be limited in how far into the node it will look for text, compared to default articy search
+
 ### Installation Instructions
 
 1. Make sure Articy is closed and no longer running. 
