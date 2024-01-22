@@ -9,7 +9,8 @@ https://github.com/chad-ld/articy_quick-search/assets/124286589/2740d8ab-5003-43
 
 ### Requirements:
 
-- Articy Draft 3.0 or later.
+- Articy Draft 3.X
+- NOTE: Has NOT been tested with Articy Draft X. 
 
 ### On Roadmap Features:
 
